@@ -14,6 +14,7 @@
 
 #include <iostream>
 using namespace std;
+#include <Predict.h>
 
 int main() {
 	Predict predict;
